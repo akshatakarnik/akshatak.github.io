@@ -1,2 +1,2 @@
-I use this section as my personal website at [Vinay Joshi](https://joshivm.github.io)
+I use this section as my personal website at [Ninad Hemant Watwe](https://ninadhw.github.io)
 

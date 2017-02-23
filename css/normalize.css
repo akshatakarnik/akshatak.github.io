@@ -425,7 +425,7 @@ th {
 
 .myrecentprojects_imgs{
 float:left;
-max-width:400px;
+max-width:200px;
 }
 .myprojects_imgs{
 float:left;
@@ -446,7 +446,7 @@ float:right;
 .myrecentprojects_desc{
 margin-left:20px;
 float:right;
-max-width:600px;
+max-width:400px;
 }
 .myprojects{
 margin-top:5px;
