@@ -469,10 +469,12 @@ th {
 .myrecentprojects_imgs{
 float:left;
 max-width:500px;
+display:inline-block;
 }
 .myprojects_imgs{
 float:left;
 max-width:500px;
+display:inline-block;
 }
 .myprojects_desc{
 margin-left:20px;
