@@ -468,11 +468,11 @@ th {
 
 .myrecentprojects_imgs{
 float:left;
-max-width:200px;
+max-width:500px;
 }
 .myprojects_imgs{
 float:left;
-max-width:100px;
+max-width:500px;
 }
 .myprojects_desc{
 margin-left:20px;
